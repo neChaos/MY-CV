@@ -1,0 +1,42 @@
+# 个人信息
+
+ - 唐兵/男/1992 
+ - 本科/中央民族大学管理系 
+ - 工作年限：1年
+ - Github：http://github.com/geekcompany 
+ - 期望职位：Web前端程序员
+
+---
+# 联系方式
+- 手机：13522845190
+- Email：necchaos@gmail.com
+- QQ：1692826854
+
+---
+# 技术掌握
+- 熟练掌握javascript的DOM、原型链、作用域、this等
+
+- 熟练掌握CSS的基本布局及盒子模型、CSS3、html
+
+- 熟悉ajax的使用
+
+- 熟悉jquery、angularjs、bootstrap等使用
+
+- 熟悉nodejs相关知识，能写出简单的server，了解http基本原理
+
+- 熟悉mac终端基本命令行使用
+
+- 熟悉使用npm、Sublime Text、Evernote、git、stackoverflow、Photoshop等常用工具
+
+#阅读书籍
+
+- 《javascript高级程序设计》
+- 《深入浅出node.js》
+- 《精通CSS高级web标准解决方案》
+
+#工作经历
+2014年8月~2015年11月 长春能源勘探集团北京分部担任会计
+
+
+# 致谢
+感谢您花时间阅读我的简历，期待能有机会和您共事。
